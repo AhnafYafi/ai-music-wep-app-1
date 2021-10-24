@@ -1,0 +1,16 @@
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin:0;
+}
+body
+{
+background-size:cover;
+font-family: 'Montserrat', sans-serif;
+}
+.note
+{
+    font-size:15px;
+    color:whitesmoke;
+}
